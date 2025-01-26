@@ -1,7 +1,7 @@
 <h1><strong><u> INSTALAÇÃO / INSTALLATION HYPER-V </u></strong></h1>
 <br>
 <h3><b> 1- PROCURE POR ATIVAR OU DESATIVAR RECURSOS DO WINDOWS. </b></h3>
-<h3><b> 1-SEARCH TO ENABLE OR DISABLE WINDOWS FEATURES. </b></h3><br>
+<h3><b> 1- SEARCH TO ENABLE OR DISABLE WINDOWS FEATURES. </b></h3><br>
 ![image](https://github.com/user-attachments/assets/21465366-3208-4e27-9354-51ca2ca3cc1a)
 <br>
 
