@@ -20,8 +20,8 @@
 <img src="https://github.com/user-attachments/assets/0cf02aa2-33ef-48e9-9a75-bd93b596e94a" alt="Imagem de exemplo 4" />
 <br>
 
-<h3><b> 5- PROCURE PELO "Hyper-V"  </b></h3>
-<h3><b> 5 - SEARCH FOR "Hyper-V", AND THAT's IT! IT's ALREADY INSTALLED! </b></h3> <br>
+<h3><b> 5- PROCURE PELO "Hyper-V".  </b></h3>
+<h3><b> 5 - SEARCH FOR "Hyper-V. </b></h3> <br>
 <img src="https://github.com/user-attachments/assets/e19f49eb-1322-4562-9b05-a54b5d2898f3" alt="Imagem de exemplo 5" />
 <br>
 
