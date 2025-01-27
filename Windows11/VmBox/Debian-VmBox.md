@@ -58,16 +58,48 @@ Processadores: 2 CPUs também devem ser o suficiente para pequenos testes.
 _________________________________________________________________________________________________________________________
 <br>    
 
-**6-SELECIONE A QUANTIDADE DE DISCO VIRTUAL DESEJADA. PARA TESTES SIMPLES, 30GB DEVE SER O SUFICIENTE.**    
+**6- SELECIONE A QUANTIDADE DE DISCO VIRTUAL DESEJADA. PARA TESTES SIMPLES, 30GB DEVE SER O SUFICIENTE.APÓS ISSO, CLIQUE EM “Finalizar”.**    
 <br>     
 ![image](https://github.com/user-attachments/assets/76a244e3-29a6-4ef6-8eb7-7d0a5766c27c)     
 <br>    
 <br>    
-
 _________________________________________________________________________________________________________________________
 <br>     
 
-**7-
+**7- A VM IRÁ INICIAR AUTOMATICAMENTE PARA A INSTALAÇÃO DO SISTEMA. PARA FACILITAR, ESCOLHA A INTERFACE GRÁFICA DO DEBIAN, SE TIVER ESSA OPÇÃO.**
+<br>     
+![image](https://github.com/user-attachments/assets/49ddd954-a6e5-4d56-a1c9-a53d13d9f414)     
+<br>    
+<br>     
+_________________________________________________________________________________________________________________________
+<br>     
+
+**8- INSTALANDO O DEBIAN. NO MEU CASO, NÃO TEVE A OPÇÃO DE INTERFACE GRÁFICA.**     
+<br>    
+![image](https://github.com/user-attachments/assets/b74f0260-85d7-47c4-bcd2-73dd9ba88972)     
+<br>    
+<br>     
+_________________________________________________________________________________________________________________________
+<br>     
+
+**9- INSTALAÇÃO FINALIZADA! ETAPA DE LOGIN.**
+<br>     
+![image](https://github.com/user-attachments/assets/7c850ddf-dd0d-47fb-92a7-14c7c0bcfdae)     
+<br>    
+<br>    
+_________________________________________________________________________________________________________________________
+<br>    
+
+**10- PRONTO! JÁ ESTÁ NA ÁREA DE TRABALHO DO DEBIAN NA VMBOX! 😊**  
+<br>   
+![image](https://github.com/user-attachments/assets/9b3adbbd-c561-4118-83c3-ef6bce962399)     
+<br>    
+<br>    
+_________________________________________________________________________________________________________________________
+
+
+
+
 
 
 
