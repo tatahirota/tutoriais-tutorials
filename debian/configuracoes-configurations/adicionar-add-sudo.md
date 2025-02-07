@@ -65,8 +65,19 @@ x: indicates that the group password, if any, is stored in the file “/etc/gsha
 
 _________________________________________________________________________________________________________________________   
 
-## 6- Pronto! :)  
-## 6- Done! :)   
+## 6- Para atualizar o grupo, coloque o comando a seguir.   
+## 6- To update the group, enter the following command.   
+
+![image](https://github.com/user-attachments/assets/4937f5dd-c881-422c-81de-4690e60eef6a)    
+
+Pronto! :)  
+Done! :)    
+
+<br>   
+
+ _________________________________________________________________________________________________________________________   
+
+
 
 
    
