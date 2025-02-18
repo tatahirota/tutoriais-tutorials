@@ -48,7 +48,65 @@ sudo apt install gnome-shell-extensions
 
 ------------------------------------------------------------------------------------------------------------------------   
 
+## 5-Para configurações mais específicas, deve-se instalar a extensão “Dash to Panel”. Acessar o site: https://extensions.gnome.org/extension/1160/dash-to-panel/ e instalar, adicionando-o ao Gnome Shell Integration.   
+## 5-For more specific configurations, you must install the “Dash to Panel” extension. Access the website: https://extensions.gnome.org/extension/1160/dash-to-panel/ and install it, adding it to Gnome Shell Integration.   
+
+![image](https://github.com/user-attachments/assets/599ee260-b4fe-44d2-9296-5994b2cc6aec)   
 
 
+![image](https://github.com/user-attachments/assets/b9f88917-3b2d-45c2-8354-45c8d3dd6ecb)    
+   
+<br>   
+    
+---------------------------------------------------------------------------------------------------------------------------      
+## 6- Note que a aparência mudou, agora é só configurar do seu jeito.   
+## 6- Note that the appearance has changed, now just configure it your way.   
+
+![image](https://github.com/user-attachments/assets/b44157e8-4878-4222-98ef-5627dedffc09)   
+
+
+<br>   
+   
+--------------------------------------------------------------------------------------------------------------------------   
+
+## 7- Reiniciar a máquina.   
+## 7- Restart the machine.   
+
+<br>   
+
+-------------------------------------------------------------------------------------------------------------------------   
+
+## 8- Abrir o aplicativo “Extensions” e modificar como preferir.   
+## 8- Open the “Extensions” application and modify as you prefer.   
+
+![image](https://github.com/user-attachments/assets/1a61d895-d698-40cf-9a1f-1361d0f99fcd)    
+
+<br>    
+   
+No meu caso, eu escolhi colocar a barra no topo e diminuir os ícones.   
+In my case, I chose to place the bar at the top and make the icons smaller.   
+
+![image](https://github.com/user-attachments/assets/e682f128-1572-4611-9c87-0a691f408712)   
+
+<br>    
+
+------------------------------------------------------------------------------------------------------------------
+
+## 9- Pronto!! :)   
+## 9- Done!! :)   
+
+<br>    
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+ 
 
 
